@@ -1,0 +1,14 @@
+[
+    {
+        "name": "certificationy.phar",
+        "sha1": "da641c3efa1491d9675dbe6e6e9c8581579a3482",
+        "url": "https://github.com/TheRatG/certificationy-cli/releases/download/1.1.1/certificationy.phar",
+        "version": "1.1.1"
+    },
+    {
+        "name": "certificationy.phar",
+        "sha1": "06b4960aa4fe5638aabe349f3251dcb9bb5fd8e5",
+        "url": "https://github.com/TheRatG/certificationy-cli/releases/download/1.1.0/certificationy.phar",
+        "version": "1.1.0"
+    }
+]
